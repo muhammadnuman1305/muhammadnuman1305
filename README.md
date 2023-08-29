@@ -12,7 +12,9 @@ You can click the Preview link to take a look at your changes.
 +    💻 Code Enthusiast 
 +    🚀 Tech Explorer 
 ```
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
+ 
 
 **Reach Out:**
 ```diff
