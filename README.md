@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 **Character Specs:**
 ```diff
 +    👋 Muhammad Numan
-+    👀 FrontEnd Developer
++    👀 Software Developer
 +    +2 React, TS, Node
 +    +1 AI, ML
 ```
