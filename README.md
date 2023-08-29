@@ -19,3 +19,4 @@ You can click the Preview link to take a look at your changes.
 - 📫 WhatsApp +923015480276 
 - 📧 Email numanzahid91@gmail.com 
 ```
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadnuman1305&show_icons=true)
