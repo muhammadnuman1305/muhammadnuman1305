@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 ```diff
 +    👋 Muhammad Numan 
 +    👀 Software Developer 
-+    +2 React, TS, Node 
-+    +1 AI, ML 
++    +2 React, TS, Node , Mongodb 
++    +1 AI, ML, Python
 +    💻 Code Enthusiast 
 +    🚀 Tech Explorer 
 ```
