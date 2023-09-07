@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
  	<a href="https://www.linkedin.com/in/numan-zahid-91a819228/"><img src="https://img.icons8.com/doodle/48/linkedin-circled.png" alt="LinkedIn"/></a>
  	<a href="https://www.facebook.com/numan.zahid.526/"><img src="https://img.icons8.com/doodle/48/facebook-circled.png" alt="Facebook"/></a>
  	<a href="https://www.instagram.com/numan_zahid_/"><img src="https://img.icons8.com/doodle/48/instagram-new.png" alt="Instagram"/></a>
- 	<a href="https://twitter.com/numan11"><img src="https://img.icons8.com/doodle/48/old-twitter-logo.png" alt="Twitter"/></a>
+ 	<a href="https://twitter.com/NumanZahid2"><img src="https://img.icons8.com/doodle/48/old-twitter-logo.png" alt="Twitter"/></a>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadnuman1305&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
