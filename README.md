@@ -3,6 +3,9 @@
 muhammadnuman1305/muhammadnuman1305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
+
+
 **Character Specs:**
 ```diff
 +    👋 Muhammad Numan 
@@ -14,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 ```
 <p align='center'>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
+ 
+ 
 </p>
 <p align="center">
  	<a href="https://github.com/muhammadnuman1305"><img src="https://img.icons8.com/doodle/48/github--v1.png" alt="GitHub"/></a>
