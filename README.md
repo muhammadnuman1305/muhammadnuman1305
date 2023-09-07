@@ -28,9 +28,4 @@ You can click the Preview link to take a look at your changes.
  	<a href="https://twitter.com/numan11"><img src="https://img.icons8.com/doodle/48/old-twitter-logo.png" alt="Twitter"/></a>
 </p>
 
-**Reach Out:**
-```diff
-- 📫 WhatsApp +923015480276 
-- 📧 Email numanzahid91@gmail.com 
-```
 **Portfolio:** https://numanzahid.netlify.app/
