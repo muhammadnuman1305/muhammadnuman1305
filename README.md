@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%">
 
-
-**Character Specs:**
 ```diff
 +    👋 Muhammad Numan 
 +    👀 Software Developer 
@@ -28,4 +26,3 @@ You can click the Preview link to take a look at your changes.
  	<a href="https://twitter.com/numan11"><img src="https://img.icons8.com/doodle/48/old-twitter-logo.png" alt="Twitter"/></a>
 </p>
 
-**Portfolio:** https://numanzahid.netlify.app/
