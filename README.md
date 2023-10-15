@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ```diff
 +    👋 Muhammad Numan. 
-+    👀 Software Developer. ................................
++    👀 Software Developer. ...............................
 +    +2 React, TS, Node, Mongodb 
 +    +1 AI, ML, Python 
 ```
