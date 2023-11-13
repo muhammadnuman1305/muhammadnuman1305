@@ -11,14 +11,9 @@ You can click the Preview link to take a look at your changes.
 +    +2 React, TS, Node, MongoDb 
 +    +1 AI, ML, Python 
 ```
-```diff
--   🇵🇸 
-```
-
 <p align='center'>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
- 
- 
+
 </p>
 <p align="center">
  	<a href="https://github.com/muhammadnuman1305"><img src="https://img.icons8.com/doodle/48/github--v1.png" alt="GitHub"/></a>
